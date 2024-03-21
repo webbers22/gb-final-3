@@ -1,9 +1,12 @@
 - Linux 
 
->git clone
+
+---
+
+>git clone https://github.com/webbers22/gb-final-3.git
 > 
 >cd gb-final-3
 > 
->pip install -r requirements.txt 
-> 
->python main.py
+>python3 main.py
+
+---
